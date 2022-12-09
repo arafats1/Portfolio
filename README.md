@@ -1,2 +1,2 @@
 # Portfolio
-![Design preview](https://github.com/arafats1/Portfolio/img/port.png?raw=true)
+![Design preview](https://github.com/arafats1/Portfolio/blob/main/img/port.png)
